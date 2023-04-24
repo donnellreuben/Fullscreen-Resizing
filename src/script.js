@@ -46,6 +46,12 @@ const renderer = new THREE.WebGLRenderer({
 })
 renderer.setSize(sizes.width, sizes.height)
 
+
+// CANVAS BACKGROUND COLOR
+// this messes with the look of the rotation/camera 
+// renderer.setClearColor("white");
+
+
 /**
  * Animate
  */
