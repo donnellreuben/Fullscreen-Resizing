@@ -60,7 +60,15 @@ window.addEventListener('dblclick', () =>
     }
     else
     {
-        document.exitFullscreen()
+        if(document.exitFullscreen)
+        {
+            document.exitFullscreen()
+        }
+        else if(document.webkitFullScreenElement)
+        {
+            document.webkitFullScreenElement()
+        }
+
     }
 })
 
