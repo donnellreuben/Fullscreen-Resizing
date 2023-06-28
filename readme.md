@@ -6,10 +6,7 @@ Made with ❤️ using
   </a>
 
 ### Description
-Hey there! This app is a twitter clone that has these functions:
-
-
-# My three.js journey
+Hey there! This is just a simple red cube with custom controls!
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
