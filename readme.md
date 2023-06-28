@@ -1,3 +1,14 @@
+# 3D Cube
+Made with ❤️ using 
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,threejs,vite,nodejs" />
+  </a>
+
+### Description
+Hey there! This app is a twitter clone that has these functions:
+
+
 # My three.js journey
 
 ## Setup
