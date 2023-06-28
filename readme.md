@@ -6,7 +6,7 @@ Made with ❤️ using
   </a>
 
 ### Description
-Hey there! This is just a simple red cube with added custom controls, fullscreen resizing, and can be used on any browser. 
+Hey there! This is just a simple red cube with added custom controls, fullscreen resizing, and can be used on any browser/device.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
